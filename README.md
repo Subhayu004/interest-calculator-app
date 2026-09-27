@@ -2,8 +2,8 @@
 
 > A short, clear one-line description of what this Flutter application does.
 
-[![Flutter](https://img.shields.io/badge/Flutter-3.x.x-blue?logo=flutter)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-3.x.x-blue?logo=dart)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-3.47.5-blue?logo=flutter)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-3.13.4-blue?logo=dart)](https://dart.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
